@@ -1,4 +1,5 @@
-# wj-vue
+# naruto_community
+
 
 > A Vue.js project
 
