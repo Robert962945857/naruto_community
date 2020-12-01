@@ -60,7 +60,7 @@ export default {
     position: fixed;
   }
   body{
-    margin: 02px;
+    margin: 0px;
   }
   .login-container {
     border-radius: 15px;
